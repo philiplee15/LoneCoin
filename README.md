@@ -1,6 +1,6 @@
-LoneCoin represnts the invidual investor over the market
+LoneCoin
 =====================================
-More to come soon.
+$LONE represents the invidual not the market. More to come soon.
 
 Why LoneCoin?
 ---------------------
